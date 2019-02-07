@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="vendor/aoscp" name="vendor_aoscp" remote="aoscp" />
+  <project path="vendor/aoscp" name="amuldudhpitahaiindia/vendor_aoscp" remote="github" revision="poundcake-release" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="aoscp" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="vendor_nxp_interfaces_opensource_nfc" remote="aoscp" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="vendor_nxp_opensource_external_libnfc-nci" remote="aoscp" />
